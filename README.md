@@ -4,6 +4,7 @@ A robust and user-friendly web application built with Python and Django for mana
 ## 📸 Project Screenshots
 
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Hospital-Management-System-Django-/main/myproject/myapp/static/images/1.jpg" alt="Screenshot 1" width="30%" />
   <img src="https://raw.githubusercontent.com/NoorMustafa4556/Hospital-Management-System-Django-/main/myproject/myapp/static/images/2.jpg" alt="Screenshot 2" width="30%" />
